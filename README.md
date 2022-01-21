@@ -1,5 +1,9 @@
 # Traveller - Smart front end take-home technical test
 
+## Video Outcome
+
+[![Smart Pensions Jon Test](https://img.youtube.com/vi/3FlmqKfkABI/0.jpg)](https://www.youtube.com/watch?v=3FlmqKfkABI
+
 ## Goals
 
 1.  Allow the user to search for cities using the provided input.
